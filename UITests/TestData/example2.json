@@ -1,0 +1,21 @@
+let JSONContent = """
+[
+    {
+        "name" : "Tom Harrys",
+        "email" : "tommyHarrys@abc.com",
+        "password" : "tomharry123"
+    },
+
+    {
+        "name" : "Sam Billing",
+        "email" : "samybilling@abc.com",
+        "password" : "sambillings789"
+    },
+
+    {
+        "name" : "Adam Gosh",
+        "email" : "adagoshy@abc.com",
+        "password" : "adamghosy989"
+    }
+]
+""".data(using: .utf8)!
